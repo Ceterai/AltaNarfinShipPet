@@ -3,7 +3,9 @@
   "description" : "A small mod that replaces alta ship pet drones with narfins - creatures naturally found among prisms, crystals and other reflective surfaces.\n\nCurrently includes 18 variations (check the screenshots).\n\nRequires My Enternia to function.\n\nThat's it.",
   "friendlyName" : "Alta Ship Pet - Narfin",
   "includes" : ["my_enternia", "MyEnternia", "My Enternia"],
+  "link" : "steam://url/CommunityFilePage/3358749834",
   "name" : "AltaNarfinShipPet",
+  "steamContentId" : "3358749834",
   "tags" : "NPCs and Creatures|Ships",
   "version" : "1.0"
 }
